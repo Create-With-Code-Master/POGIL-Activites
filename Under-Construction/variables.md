@@ -13,7 +13,7 @@ Students need to have the concept of binary numbers, to understand that everythi
 ## Learning Objectives
 I can:
 * Explain and show examples of the terms _variable, value,_ and _expression_ in samples of C# code.
-* "Walk" another programmer through an expression with variables.
+* "Walk" another programmer through an expression with variables. Communicate to the programmer what the expression is doing. For example "Make the camera follow the car by assigning a value of the camera's transform that is the sum of car's transform plus the cameraOffset."
 * Accurately trace the value of a variable in simple examples.
 * Declare a variable.
 * Assign a _value_ to a variable.
@@ -27,3 +27,4 @@ Questions:
 * What is the _access modifier_ of a variable?
 * How do you assign a value to a variable?
 * How do you use the value of a variable?
+* Why is it necessary to perform operations on variables of the same type (e.g., adding a Vector3 to a Vector3 and not doing something like adding an int to a Vector3).
