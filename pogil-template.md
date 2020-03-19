@@ -1,6 +1,6 @@
 
-Explore the model
+Explore / observe the model
 
-Observe the model
+Interpret the model
 
 Apply the model
