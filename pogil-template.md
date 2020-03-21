@@ -2,7 +2,7 @@
 
 ## Learning Objectives
 I can:
-* 
+1. 
 
 Assessment questions:
 * 
