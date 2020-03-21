@@ -2,6 +2,10 @@
 
 Prototype 1: Lesson 3: Threshold Concept: Variables
 
+---
+This activity introduces variables.
+---
+
 A _variable_ is a named "container" that holds a value that can change as the program runs. The name of the variable is the "label" on the container. Knowing the name of a variable allows us to use the value stored in the container without needing to know the actual value. As a visual, use a photo or physical example of a one dimensional array of something (mailboxes, jars on a shelf, etc.). So we could say the fourth jar from the left (the address in memory) or we could give it a (symbolic) label – a name with descriptive value that we can use instead of the address to refer to the variable. The lable is a kind of shorthand for the address.
 
 All values in a program are numbers, patterns of bits. Even values that we see as characters or strings are represented in the program as numbers. Therefore, in C#, we need to specify the _type_ of the variable. We need to tell the compiler how to interpret the bit pattern. They need to be **declared.** The type of the variable tells the compiler how much storage to allocate and how to make sense of the bits (what they "mean").
