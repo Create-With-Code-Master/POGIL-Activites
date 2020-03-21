@@ -1,6 +1,6 @@
 # Variables
 
-Threshold Concept
+Prototype 1: Lesson 2: Threshold Concept: Variables
 
 A _variable_ is a named "container" that holds a value that can change as the program runs. The name of the variable is the "label" on the container. Knowing the name of a variable allows us to use the value stored in the container without needing to know the actual value. As a visual, use a photo or physical example of a one dimensional array of something (mailboxes, jars on a shelf, etc.). So we could say the fourth jar from the left (the address in memory) or we could give it a (symbolic) label – a name with descriptive value that we can use instead of the address to refer to the variable. The lable is a kind of shorthand for the address.
 
@@ -12,12 +12,13 @@ Students need to have the concept of binary numbers, to understand that everythi
 
 ## Learning Objectives
 I can:
+1. _Declare_ a _variable_.
+1. _Assign_ a _value_ to a variable.
+1. Use the value of a variable in an _expression._
+
 * Explain and show examples of the terms _variable, value,_ and _expression_ in samples of C# code.
 * "Walk" another programmer through an expression with variables. Communicate to the programmer what the expression is doing. For example "Make the camera follow the car by assigning a value of the camera's transform that is the sum of car's transform plus the cameraOffset."
 * Accurately trace the value of a variable in simple examples.
-* Declare a variable.
-* Assign a _value_ to a variable.
-* Use the value of a variable in an expression.
 
 Questions:
 * What does a variable declaration look like?
